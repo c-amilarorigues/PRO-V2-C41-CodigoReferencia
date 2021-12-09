@@ -102,7 +102,7 @@ class Game {
     form.titleImg.class("gameTitleAfterEffect");
 
     //C39
-    this.resetTitle.html("Reiniciar Jogoe");
+    this.resetTitle.html("Reiniciar Jogo");
     this.resetTitle.class("resetText");
     this.resetTitle.position(width / 2 + 200, 40);
 
